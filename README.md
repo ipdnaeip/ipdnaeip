@@ -1,1 +1,1 @@
-Hey, I'm ipdnaeip. I've been interested in programming since I played my first game, but struggled and moved on. I'm returning to try to get back into it and make something for myself and others to enjoy. I'm starting off with minecraft modding as it's a great game with a great community and I'll be able to enjoy what I make too. 
+I've always wanted to make a minecraft mod, but was never exactly skilled in programming. I'm now making a serious effort to learn how to mod and put my ideas in the game. 
